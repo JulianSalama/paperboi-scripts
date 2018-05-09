@@ -1,7 +1,12 @@
 Thank you noplay for providigin a great mysql log parser... This script is intended to be used by anyone, and streams your mysql logs to S3 in sequential order. Paperboi.io provides tool to act on those stream of data. Visit paperboi.io in order to learn more.
 
 Installation:
+1) clone this repo
+2) open up the configuration file, and set up the keys needed for this script to load the logs from your MySQL instance
+3) This script uses boto3, make sure the AWS keys are properly set up to upload the logs to your bucket
 
+Next Steps:
+Visit paperboi.io to learn what you can do with logs
 
 Licence
 Copyright 2018 Julian Salama
