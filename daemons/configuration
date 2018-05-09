@@ -1,0 +1,5 @@
+bucket_name=INSERT BUCKET NAME
+username=INSET USERNAME
+hostname=INSERT HOSTNAME
+database=INSERT DATABASE NAME
+password=INSERT PASSWORD (no quotes, spaces allowed)
